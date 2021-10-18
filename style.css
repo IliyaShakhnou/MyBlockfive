@@ -1,0 +1,121 @@
+.font1 {
+    font-family: "Open Sans", sans-serif;
+}
+
+.font2 {
+    font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+    font-family: "Raleway", sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 200;
+    text-align: center;
+    text-transform: uppercase;
+    color: #212121;
+    margin-top: 40px;
+}
+
+.line {
+    border-top-color: #E72424;
+    border-top-style: solid;
+    border-top-width: 1px;
+    height: 1px;
+    width: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 34px;
+}
+
+.text {
+    font-family: "Raleway", sans-serif;
+    font-size: 1em;
+    line-height: 1em;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgba(122, 121, 122, 0.47);
+    margin-top: 40px;
+}
+
+ul.hr {
+    margin: 24px;
+    padding: 24px;
+    line-height: 90px;
+}
+
+.hr1 {
+    font-size: 20px;
+    color: rgba(122, 121, 122, 0.47);
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.hr2 {
+    font-size: 20px;
+    color: rgba(122, 121, 122, 0.47);
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.hr3 {
+    font-size: 20px;
+    color: rgba(122, 121, 122, 0.47);
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.line1 {
+    border-top-color: rgba(156, 156, 154, 0.74);
+    border-top-style: solid;
+    border-top-width: 1px;
+    height: 1px;
+    width: 650px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 4px;
+}
+
+.hr4 {
+    font-size: 20px;
+    color: rgba(122, 121, 122, 0.47);
+    margin-left: 820px;
+    margin-top: -300px;
+    list-style-type: none;
+}
+
+.line2 {
+    border-top-color: rgba(156, 156, 154, 0.74);
+    border-top-style: solid;
+    border-top-width: 1px;
+    width: 600px;
+    margin-left: 820px;
+}
+
+.hr4 {
+    height: 250px;
+    position:relative;
+}
+.line2 {
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+.line2 {
+    position: absolute;
+    left: 0;
+    top: 505px;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    background: rgb(212, 107, 94);
+    padding: 0.8em 1.7em;
+    outline: aqua;
+    position: absolute;
+    left: 700px;
+    top: 550px;
+    border 5px solid rgb(19, 0, 212);
+}
